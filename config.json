@@ -2,7 +2,7 @@
   "facebookAccount": {
     "email": "xeltorion@gmail.com",
     "password": "XhyuHcVyron2090#*123€",
-    "2FASecret": "",
+    "2FASecret": "144657",
     "i_user": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
@@ -14,7 +14,7 @@
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
   "nickNameBot": "🎧X.Ørįøɳ.🪶🧘🏻‍♂️",
-  "prefix": "@",
+  "prefix": "R",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
